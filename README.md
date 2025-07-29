@@ -1,0 +1,1 @@
+# bug-renovate-terraform-version
